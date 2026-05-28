@@ -51,7 +51,7 @@ export const ALL_APPS: AppConfig[] = [
     labelEn: 'Resume',
     icon: `https://cdn.jim-nielsen.com/macos/1024/textedit-2021-06-03.png`,
     type: 'download',
-    href: '/Curriculum_FINAL_Polido.pdf'
+    href: '/Curriculo_Vilanir.pdf'
   },
   {
     id: 'browser',

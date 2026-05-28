@@ -19,6 +19,18 @@ interface Project {
 
 const PROJECTS: Project[] = [
   {
+    id: 'run-force',
+    name: 'RunForce Team',
+    description: 'Assessoria esportiva de corrida focada em evolução diária com treinos inteligentes, estratégia e acompanhamento de performance.',
+    stack: ['Next.js', 'React', 'Tailwind'],
+    type: 'web',
+    folderColor: 'text-red-500',
+    borderColor: 'border-red-500/60',
+    shadowColor: '0 0 20px rgba(239,68,68,0.35)',
+    glowBg: 'rgba(239,68,68,0.06)',
+    demo: 'https://run-force.vercel.app/',
+  },
+  {
     id: 'sdr-crm',
     name: 'SDR CRM + AI',
     description: 'Plataforma avançada para equipes de Pré-Vendas com hiper-personalização via IA (Gemini), funil Kanban e gestão de leads em escala.',
